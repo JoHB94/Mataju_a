@@ -3,7 +3,7 @@
     <mxGraphModel dx="1590" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="bl2LzJDID7CKvUJ2VzMa-29" style="" parent="0" />
+        <mxCell id="bl2LzJDID7CKvUJ2VzMa-29" style="locked=1;" parent="0" />
         <mxCell id="-sPoOlOqM3EWKsqca_SR-43" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="bl2LzJDID7CKvUJ2VzMa-29" vertex="1">
           <mxGeometry x="900" y="920" width="210" height="570" as="geometry" />
         </mxCell>
@@ -195,7 +195,7 @@
         </mxCell>
         <mxCell id="-sPoOlOqM3EWKsqca_SR-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="bl2LzJDID7CKvUJ2VzMa-29" source="-sPoOlOqM3EWKsqca_SR-46" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="1450" as="targetPoint" />
+            <mxPoint x="130" y="1460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="962" y="960" />
               <mxPoint x="1120" y="960" />
