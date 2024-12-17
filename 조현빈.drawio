@@ -164,7 +164,7 @@
           <mxGeometry x="230" y="1090" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-fukH-Hzjp9KA4uO5c0_-32" value="&lt;div&gt;actions/checkout@v3 액션이 사용한 임시 파일이나 캐시 등을 정리합니다.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1080" width="260" height="70" as="geometry" />
+          <mxGeometry x="510" y="1070" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-fukH-Hzjp9KA4uO5c0_-33" value="aws-actions/configure-aws-credentials@v3 액션이 종료된 후, 사용했던 리소스를 정리합니다." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="990" width="260" height="70" as="geometry" />
