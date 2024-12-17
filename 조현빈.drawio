@@ -202,8 +202,14 @@
             <mxPoint x="350" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-fukH-Hzjp9KA4uO5c0_-40" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;CD Workflow&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="315" height="60" as="geometry" />
+        <mxCell id="-fukH-Hzjp9KA4uO5c0_-40" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;CD Workflow&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="90" y="638" width="265" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-fukH-Hzjp9KA4uO5c0_-41" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;GitHub&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-fukH-Hzjp9KA4uO5c0_-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-128.png" vertex="1" parent="1">
+          <mxGeometry x="2" y="600" width="88" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
