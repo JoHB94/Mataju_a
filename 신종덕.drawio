@@ -619,9 +619,6 @@
         <mxCell id="UuZQVCZSzkKI01Mqjyhn-0" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="bl2LzJDID7CKvUJ2VzMa-29">
           <mxGeometry x="1450" y="1736" width="877" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="UuZQVCZSzkKI01Mqjyhn-1" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;백엔드 API&amp;nbsp;Prod&amp;nbsp;서버 로드밸런싱 오토스케일링 아키텍처&lt;/font&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=12;fontStyle=0;align=center;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="bl2LzJDID7CKvUJ2VzMa-29">
-          <mxGeometry x="1237" y="1700" width="1063" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="UuZQVCZSzkKI01Mqjyhn-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;AZ가용지역 2a&lt;/font&gt;&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;noLabel=0;" vertex="1" parent="bl2LzJDID7CKvUJ2VzMa-29">
           <mxGeometry x="1640" y="1791" width="640" height="290" as="geometry" />
         </mxCell>
